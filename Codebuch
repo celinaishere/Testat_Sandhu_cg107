@@ -1,0 +1,30 @@
+Codebuch Testat 
+
+Nodelist:
+id: Kürzel 
+name: Ganzer Name 
+
+type: 
+1 = Mensch 
+2 = Organisation 
+
+sector: 
+1 = Dienstleister
+2 = Militär 
+3 = Politiker
+4 = Kultur
+5 = Adel
+6 = Exekutive
+
+
+Edgelist: 
+
+from
+
+to
+
+relation: 
+1 = Gleichgesinnter 
+2 = (Partei)mitglied 
+3 = Gründer 
+4 = Liebesbeziehung 
